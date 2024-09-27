@@ -2,3 +2,6 @@
 .env
 *.csv
 *.log
+downloaded_files
+__pycache__
+*.zip
